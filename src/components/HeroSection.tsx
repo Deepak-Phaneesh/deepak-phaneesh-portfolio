@@ -42,7 +42,7 @@ const HeroSection = () => {
             variant="outline"
             size="lg"
             className="border-elegant-border hover:bg-elegant-surface text-foreground px-8 py-3 rounded-lg transition-all duration-300 hover:scale-105"
-            onClick={() => window.open("#", "_blank")}
+            onClick={() => scrollToSection("resume")}}
           >
             Download Resume
           </Button>
