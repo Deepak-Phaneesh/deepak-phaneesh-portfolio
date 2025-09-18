@@ -120,4 +120,4 @@ Then deploy the contents of `dist/` to Vercel, Netlify, or GitHub Pages.
 
 ## License
 
-MIT License (or choose another).
+MIT License.
